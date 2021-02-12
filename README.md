@@ -1,0 +1,1 @@
+First project within the Odin Project's foundations path.
